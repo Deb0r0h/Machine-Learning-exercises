@@ -12,7 +12,7 @@
 
 
 /#put here your ``numero di matricola''
-ID_number := 2008571
+ID_number := #RANDOM VALUE
 
 
 use std
